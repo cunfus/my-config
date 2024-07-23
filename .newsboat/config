@@ -1,0 +1,13 @@
+# local at ~/.newsboat/
+
+## newsboat
+browser             "google-chrome-stable %u"
+download-full-page  no
+download-timeout    60
+error-log           "~/.newsboat/error.log"
+
+## podboat
+player qmmp
+download-path             "~/.newsboat/pod/%n"
+download-filename-format  "%t.%e"
+podlist-format            "%4i [%6dMB/%6tMB] [%5p %%] [%7k kb/s] %6S %F"
