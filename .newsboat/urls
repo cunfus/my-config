@@ -1,7 +1,8 @@
 
 #================================================
 ### 中文博客
-# 阮一峰
+
+# 阮一峰 科技爱好者周刊
 https://feeds.feedburner.com/ruanyifeng
 
 # HelloGithub 周刊
@@ -31,6 +32,9 @@ https://mazhuang.org/feed.xml
 # CatKang
 http://catkang.github.io//feed.xml
 
+# 卡瓦邦噶！
+https://www.kawabangga.com/feed
+
 # 爱编程的大丙
 https://subingwen.cn/atom.xml
 
@@ -42,6 +46,9 @@ https://www.williamlong.info/rss.xml
 
 # 查令十字街 84 号
 https://www.javis.me/feed/
+
+# memozine
+https://memozine.me/atom.xml
 
 # 林海草原
 https://lhcy.org/feed
@@ -65,8 +72,6 @@ https://pinlyu.com/atom.xml
 #================================================
 
 ### 英文博客
-# ByteByteGo
-https://blog.bytebytego.com/feed
 
 # ShapeOfCode
 https://shape-of-code.com/feed/
@@ -83,8 +88,16 @@ https://goodyduru.github.io//feed.xml
 # Danny Guo
 https://www.dannyguo.com/blog/feed.xml
 
+#================================================
+
 ### podcast
+
 # 一席 
 http://www.ximalaya.com/album/242812.xml
 
 
+#================================================
+
+### 废弃
+
+# ByteByteGo https://blog.bytebytego.com/feed
